@@ -1,4 +1,12 @@
 Preface:
+This is the response to one of my interviews with Dolby:
+
+“Design a program for file handling at a http server from a client.
+
+The client should be able to manipulate (read, update and delete portions of the file based on a input field and value) one or more files based on file names and content.
+
+Design and provide example code of client and server operations in Python.”
+
 Sorry about the code. I tried to comment as best as possible to help follow my logic. This is my first time experience on python server/client based applications and json objects. I learned everything on the go. It does what the challenge asks: you can manipulate, delete, and read data from the json file by querying the server for various information.
 
 ASSUMPTIONS:
